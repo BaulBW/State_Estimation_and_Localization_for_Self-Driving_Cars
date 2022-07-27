@@ -1,0 +1,5 @@
+**/.vs
+**/x64
+**/.DS_Store
+**/.ipynb_checkpoints
+**/__pycache__
